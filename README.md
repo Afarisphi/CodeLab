@@ -44,7 +44,7 @@ Next, run the following command to create a project alias. Replace $YOUR_PROJECT
 ```
 firebase use $YOUR_PROJECT_ID
 ```
-Next, find the REAL_FIREBASE_PROJECT_ID variable at the top of the file and change it to your real Firebase Project ID.:
+Next on functions/test.js, find the REAL_FIREBASE_PROJECT_ID variable at the top of the file and change it to your real Firebase Project ID.:
 ```
 // CHANGE THIS LINE
 const REAL_FIREBASE_PROJECT_ID = "xxx";
