@@ -103,17 +103,18 @@ In your web browser, navigate to http://127.0.0.1:5000 and you should see The Fi
 Run the tests
 On the command line in a new terminal tab from the directory emulators-codelab/codelab-initial-state/
 
-First move into the functions directory (we'll stay here for the remainder of the codelab):
+Open a new tab, move into the functions directory (we'll stay here for the remainder of the codelab):
 
 ```
 cd functions
 ```
 
 Now run the mocha tests in the functions directory, and scroll to the top of the output:
-
+```
+npm test
 ```
 # Run the tests
-$ npm test
+```
 
 > functions@ test .../emulators-codelab/codelab-initial-state/functions
 > mocha
