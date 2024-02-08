@@ -8,8 +8,8 @@ Get the code
 # clone repository
 git clone https://github.com/Afarisphi/CodeLab.git
 
-# Change directory to Cloud-Computing
-cd codelab-initial-state
+# Change directory
+cd codelab
 
 # Move into the functions directory
 cd functions
