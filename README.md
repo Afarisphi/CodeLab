@@ -9,7 +9,7 @@ Get the code
 git clone https://github.com/Afarisphi/CodeLab.git
 
 # Change directory
-cd codelab
+cd CodeLab
 
 # Move into the functions directory
 cd functions
